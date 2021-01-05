@@ -1,4 +1,24 @@
 body {
   background: url('assets/freedom.jpg') no-repeat center center fixed;
   background-size: cover;
+  display: flex;
+  justify-content: center;
+    font-size: 100%;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+.content {
+  text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    width: 90%;
+}
+.text {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 3.3em;
+}
+.sign {
+  font-family: 'Crimson Text', serif; 
+  font-style: italic;
 }
